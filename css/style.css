@@ -1264,6 +1264,11 @@ nav.fixed__nav {
     height: auto;
   }
 
+  .app {
+    padding-top: 50px;
+    padding-bottom: 150px;
+  }
+
   .swiper-button-prev {
     display: none;
   }
